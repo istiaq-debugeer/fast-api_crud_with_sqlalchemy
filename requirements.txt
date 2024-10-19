@@ -5,3 +5,4 @@ passlib
 bcrypt
 python-multipart
 python-jose
+starlette>=0.40.0 # not directly required, pinned by Snyk to avoid a vulnerability
